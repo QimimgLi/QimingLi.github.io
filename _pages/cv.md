@@ -8,57 +8,47 @@ redirect_from:
 ---
 
 {% include base_path %}
+Current
+======
+* M.S. TG Group, [Research Center for Social Computing and Information Retrieval(SCIR)](http://ir.hit.edu.cn/), Harbin Institute of Technology
+
 Research Interests
 ======
 * Natural Language Processing
 * Multimodal Large Language Model
-
+* Embodied Intelligence
 
 Education
 ======
 * B.S. in Computer Science, Harbin Institute of Technology, Aug.2020-June.2024
-* M.S. in Computer Science, Harbin Institute of Technology, Aug.2024-2026(expect)
+* M.S. in Computer Science, Harbin Institute of Technology, Aug.2024-2026(expected)
+  * Supervisor: [Prof. Xiaocheng Feng](http://ir.hit.edu.cn/~xcfeng/)
 
-Work experience
+Internship
 ======
 * Oct.2023-Jan.2024: Research Assistant
   * [iFLYTEK CO., LTD.](https://www.iflytek.com/)
   * Department: R&D, AI Lab, COG7      
-  * Duties included: Speech machine translation, Data mining, DeepLearning
+  * Duties: Speech machine translation, Data mining, DeepLearning
   * Supervisor: Professor Xinyuan Zhou
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Oct.2023-Jan.2024: Vision Control Algorithm Engineer
+  * [HITCRT](https://baike.baidu.com/item/%E5%93%88%E5%B0%94%E6%BB%A8%E5%B7%A5%E4%B8%9A%E5%A4%A7%E5%AD%A6%E7%AB%9E%E6%8A%80%E6%9C%BA%E5%99%A8%E4%BA%BA%E9%98%9F#7)
+  * Department: Vision Group    
+  * Duties included: Machine Vision，Six-degree-of-freedom Robot Arm Control
   
-Skills
+* Jan.2022-Feb.2022: Vision Algorithm Engineer
+  * [Leju (Shenzhen) Robotics Technology Co., Ltd](https://www.lejurobot.com/)
+  * Department: Vision Algorithm R&D
+  * Duties: Machine Vision, Deep Learning
+  * Supervisor: Professor [Xiaokun Leng](https://homepage.hit.edu.cn/lengxiaokun)
+  
+Projects & Competitions
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 2023全国大学生机器人竞赛[Robomaster](https://www.robomaster.com/zh-CN)
+  * [RoboMaster 2023机甲大师超级对抗赛全国赛————全国一等奖（八强）](https://www.robomaster.com/zh-CN/resource/pages/announcement/1617)
+  * [RoboMaster 2023机甲大师超级对抗赛分区赛————中部赛区冠军]{https://www.robomaster.com/zh-CN/resource/pages/announcement/1607}
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* 2023“建行杯”第十六届全国大学生节能减排社会实践与科技竞赛
+  * [“建行杯”第十六届全国大学生节能减排社会实践与科技竞赛————全国二等奖 ](http://www.jienengjianpai.org/Article.asp?ID=352)
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
