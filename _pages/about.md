@@ -32,7 +32,7 @@ Internship
   * Duties: Speech machine translation, Data mining, DeepLearning
   * Supervisor: Professor Xinyuan Zhou
 
-* Oct.2023-Jan.2024: Vision Control Algorithm Engineer
+* Oct.2022-Aug.2023: Vision Control Algorithm Engineer
   * [HITCRT](https://baike.baidu.com/item/%E5%93%88%E5%B0%94%E6%BB%A8%E5%B7%A5%E4%B8%9A%E5%A4%A7%E5%AD%A6%E7%AB%9E%E6%8A%80%E6%9C%BA%E5%99%A8%E4%BA%BA%E9%98%9F#7)
   * Department: Vision Group    
   * Duties included: Machine Vision，Six-degree-of-freedom Robot Arm Control
