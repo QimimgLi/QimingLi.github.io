@@ -47,7 +47,7 @@ Projects & Competitions
 ======
 * 2023全国大学生机器人竞赛[Robomaster](https://www.robomaster.com/zh-CN)
   * [RoboMaster 2023机甲大师超级对抗赛全国赛————全国一等奖（八强）](https://www.robomaster.com/zh-CN/resource/pages/announcement/1617)
-  * [RoboMaster 2023机甲大师超级对抗赛分区赛————中部赛区冠军]{https://www.robomaster.com/zh-CN/resource/pages/announcement/1607}
+  * [RoboMaster 2023机甲大师超级对抗赛分区赛————中部赛区冠军](https://www.robomaster.com/zh-CN/resource/pages/announcement/1607)
 
 * 2023“建行杯”第十六届全国大学生节能减排社会实践与科技竞赛
   * [“建行杯”第十六届全国大学生节能减排社会实践与科技竞赛————全国二等奖 ](http://www.jienengjianpai.org/Article.asp?ID=352)
