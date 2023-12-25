@@ -8,12 +8,16 @@ redirect_from:
 ---
 
 {% include base_path %}
+Research Interests
+======
+* Natural Language Processing
+* Multimodal Large Language Model
+
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Computer Science, Harbin Institute of Technology, Aug.2020-June.2024
+* M.S. in Computer Science, Harbin Institute of Technology, Aug.2024-2026(expect)
 
 Work experience
 ======
