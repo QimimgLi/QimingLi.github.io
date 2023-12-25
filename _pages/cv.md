@@ -21,10 +21,11 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Oct.2023-Jan.2024: Research Assistant
+  * [iFLYTEK CO., LTD.](https://www.iflytek.com/)
+  * Department: R&D, AI Lab, COG7      
+  * Duties included: Speech machine translation, Data mining, DeepLearning
+  * Supervisor: Professor Xinyuan Zhou
 
 * Fall 2015: Research Assistant
   * Github University
