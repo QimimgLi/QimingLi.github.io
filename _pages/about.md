@@ -26,8 +26,8 @@ Education
 
 Papers
 ======
-* [Investigating and Mitigating the Multimodal Hallucination Snowballing in Large Vision-Language Models](https://openreview.net/forum?id=13IyeDA6Uz)
-* Weihong Zhong, Xiaocheng Feng, Liang Zhao, Qiming Li, Lei Huang, Yuxuan Gu, Weitao Ma, Yuan Xu, Bing Qin
+* [Investigating and Mitigating the Multimodal Hallucination Snowballing in Large Vision-Language Models](https://openreview.net/pdf?id=13IyeDA6Uz)
+  * Weihong Zhong, Xiaocheng Feng, Liang Zhao, Qiming Li, Lei Huang, Yuxuan Gu, Weitao Ma, Yuan Xu, Bing Qin
   
 Internship
 ======
