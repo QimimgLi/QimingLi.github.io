@@ -22,11 +22,11 @@ Education
 ======
 * B.S. in Computer Science, Harbin Institute of Technology, Aug.2020-June.2024
 * M.S. in Computer Science, Harbin Institute of Technology, Aug.2024-2026(expected)
-  * Supervisor: [Prof. Xiaocheng Feng](http://ir.hit.edu.cn/~xcfeng/)
+  * Supervisor: [Prof.Xiaocheng Feng](http://ir.hit.edu.cn/~xcfeng/)
 
 Papers
 ======
-* **ACL 2024 main conference**[Investigating and Mitigating the Multimodal Hallucination Snowballing in Large Vision-Language Models](https://openreview.net/pdf?id=13IyeDA6Uz)
+* **ACL 2024 main conference** [Investigating and Mitigating the Multimodal Hallucination Snowballing in Large Vision-Language Models](https://openreview.net/pdf?id=13IyeDA6Uz)
   * Weihong Zhong, Xiaocheng Feng, Liang Zhao, **Qiming Li**, Lei Huang, Yuxuan Gu, Weitao Ma, Yuan Xu, Bing Qin
   
 Internship
@@ -35,7 +35,7 @@ Internship
   * [iFLYTEK CO., LTD.](https://www.iflytek.com/)
   * Department: R&D, AI Lab, COG7      
   * Duties: Speech machine translation, Data mining, DeepLearning
-  * Supervisor: Professor Xinyuan Zhou
+  * Supervisor: PhD.Xinyuan Zhou
 
 * Oct.2022-Aug.2023: Vision Control Algorithm Engineer
   * [HITCRT](https://baike.baidu.com/item/%E5%93%88%E5%B0%94%E6%BB%A8%E5%B7%A5%E4%B8%9A%E5%A4%A7%E5%AD%A6%E7%AB%9E%E6%8A%80%E6%9C%BA%E5%99%A8%E4%BA%BA%E9%98%9F#7)
@@ -46,7 +46,7 @@ Internship
   * [Leju (Shenzhen) Robotics Technology Co., Ltd](https://www.lejurobot.com/)
   * Department: Vision Algorithm R&D
   * Duties: Machine Vision, Deep Learning
-  * Supervisor: Professor [Xiaokun Leng](https://homepage.hit.edu.cn/lengxiaokun)
+  * Supervisor: [Prof.Xiaokun Leng](https://homepage.hit.edu.cn/lengxiaokun)
   
 Projects & Competitions
 ======
