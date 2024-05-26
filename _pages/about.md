@@ -26,7 +26,7 @@ Education
 
 Papers
 ======
-* [Investigating and Mitigating the Multimodal Hallucination Snowballing in Large Vision-Language Models](https://openreview.net/pdf?id=13IyeDA6Uz)
+* **ACL 2024 main conference**[Investigating and Mitigating the Multimodal Hallucination Snowballing in Large Vision-Language Models](https://openreview.net/pdf?id=13IyeDA6Uz)
   * Weihong Zhong, Xiaocheng Feng, Liang Zhao, **Qiming Li**, Lei Huang, Yuxuan Gu, Weitao Ma, Yuan Xu, Bing Qin
   
 Internship
