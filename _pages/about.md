@@ -21,8 +21,9 @@ Research Interests
 Education
 ======
 * B.S. in Computer Science, Harbin Institute of Technology, Aug.2020-June.2024
-* M.S. in Computer Science, Harbin Institute of Technology, Aug.2024-2026(expected)
+* M.S. in Computer Science, Harbin Institute of Technology, Aug.2024-2027(expected)
   * Supervisor: [Prof.Xiaocheng Feng](http://ir.hit.edu.cn/~xcfeng/)
+* Research Intern in [THUNLP](https://nlp.csai.tsinghua.edu.cn/), Tsinghua University, Jul.2024-now
 
 Papers
 ======
