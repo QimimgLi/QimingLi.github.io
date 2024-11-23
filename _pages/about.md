@@ -20,6 +20,7 @@ Research Interests
 
 Education
 ======
+![Harbin Institute of Technology Logo](https://img.alicdn.com/imgextra/i4/O1CN01RwQZIe2FzJXpHqkUu_!!6000000007936-2-o.png){: width="50" height="50"}  
 * B.S. in Computer Science, Harbin Institute of Technology, Aug.2020-June.2024
 * M.S. in Computer Science, Harbin Institute of Technology, Aug.2024-2027(expected)
   * Supervisor: [Prof.Xiaocheng Feng](http://ir.hit.edu.cn/~xcfeng/)
@@ -27,7 +28,7 @@ Education
 
 Papers
 ======
-* **ACL 2024 main conference** [Investigating and Mitigating the Multimodal Hallucination Snowballing in Large Vision-Language Models](https://arxiv.org/abs/2407.00569)
+* **ACL 2024 main conference(CCF-A)** [Investigating and Mitigating the Multimodal Hallucination Snowballing in Large Vision-Language Models](https://arxiv.org/abs/2407.00569)
   * Weihong Zhong, Xiaocheng Feng, Liang Zhao, **Qiming Li**, Lei Huang, Yuxuan Gu, Weitao Ma, Yuan Xu, Bing Qin
   
 Internship
