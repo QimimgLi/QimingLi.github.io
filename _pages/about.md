@@ -25,10 +25,10 @@ Education
   * Supervisor: [Prof.Xiaocheng Feng](http://ir.hit.edu.cn/~xcfeng/)
 * Research Intern in [THUNLP](https://nlp.csai.tsinghua.edu.cn/), Tsinghua University, Jul.2024-now
 
-- <img src="https://www.hit.edu.cn/_upload/article/images/d3/ec/8fcaa5d24cb59a8e9660324ef50b/735df70a-538b-4bd6-8e52-3f373085a616.png" alt="Harbin Institute of Technology Logo" style="width:30px;height:30px;"> B.S. in Computer Science, Harbin Institute of Technology, Aug.2020-June.2024
-- <img src="https://www.hit.edu.cn/_upload/article/images/d3/ec/8fcaa5d24cb59a8e9660324ef50b/735df70a-538b-4bd6-8e52-3f373085a616.png" alt="Harbin Institute of Technology Logo" style="width:30px;height:30px;"> M.S. in Computer Science, Harbin Institute of Technology, Aug.2024-2027(expected)
+- <img src="https://www.hit.edu.cn/_upload/article/images/d3/ec/8fcaa5d24cb59a8e9660324ef50b/735df70a-538b-4bd6-8e52-3f373085a616.png" alt="Harbin Institute of Technology Logo" style="width:30px;height:40px;"> B.S. in Computer Science, Harbin Institute of Technology, Aug.2020-June.2024
+- <img src="https://www.hit.edu.cn/_upload/article/images/d3/ec/8fcaa5d24cb59a8e9660324ef50b/735df70a-538b-4bd6-8e52-3f373085a616.png" alt="Harbin Institute of Technology Logo" style="width:30px;height:40px;"> M.S. in Computer Science, Harbin Institute of Technology, Aug.2024-2027(expected)
   - Supervisor: [Prof.Xiaocheng Feng](http://ir.hit.edu.cn/~xcfeng/)
-- <img src="https://vi.tsinghua.edu.cn/__local/8/1C/21/2F02A66E31BF084FE340463BB47_B9A95F73_185BC.jpg" alt="THU Logo" style="width:40px;height:40px;"> Research Intern in [THUNLP](https://nlp.csai.tsinghua.edu.cn/), Tsinghua University, Jul.2024-now
+- <img src="https://vi.tsinghua.edu.cn/__local/8/1C/21/2F02A66E31BF084FE340463BB47_B9A95F73_185BC.jpg" alt="THU Logo" style="width:50px;height:80px;"> Research Intern in [THUNLP](https://nlp.csai.tsinghua.edu.cn/), Tsinghua University, Jul.2024-now
 
 Papers
 ======
