@@ -20,7 +20,7 @@ Research Interests
 
 Education
 ======
-![Harbin Institute of Technology Logo](https://img.alicdn.com/imgextra/i4/O1CN01RwQZIe2FzJXpHqkUu_!!6000000007936-2-o.png){: width="50" height="50"}  
+![Harbin Institute of Technology Logo](https://www.hit.edu.cn/_upload/article/images/d3/ec/8fcaa5d24cb59a8e9660324ef50b/735df70a-538b-4bd6-8e52-3f373085a616.png){: width="50" height="50"}  
 * B.S. in Computer Science, Harbin Institute of Technology, Aug.2020-June.2024
 * M.S. in Computer Science, Harbin Institute of Technology, Aug.2024-2027(expected)
   * Supervisor: [Prof.Xiaocheng Feng](http://ir.hit.edu.cn/~xcfeng/)
