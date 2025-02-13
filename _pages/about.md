@@ -23,7 +23,7 @@ Education
 - <img src="https://www.hit.edu.cn/_upload/article/images/d3/ec/8fcaa5d24cb59a8e9660324ef50b/735df70a-538b-4bd6-8e52-3f373085a616.png" alt="Harbin Institute of Technology Logo" style="width:35px;height:30px;"> B.S. in Computer Science, Harbin Institute of Technology, Aug.2020-June.2024
 - <img src="https://www.hit.edu.cn/_upload/article/images/d3/ec/8fcaa5d24cb59a8e9660324ef50b/735df70a-538b-4bd6-8e52-3f373085a616.png" alt="Harbin Institute of Technology Logo" style="width:35px;height:30px;"> M.S. in Computer Science, Harbin Institute of Technology, Aug.2024-2027(expected)
   - Supervisor: [Prof.Xiaocheng Feng](http://ir.hit.edu.cn/~xcfeng/)
-- <img src="https://tse1-mm.cn.bing.net/th/id/OIP-C.aUwoLVaP4xi-v96K2E_FTgHaHc?rs=1&pid=ImgDetMain" alt="THU Logo" style="width:35px;height:30px;"> Research Intern in [THUNLP](https://nlp.csai.tsinghua.edu.cn/), Tsinghua University, Jul.2024-now
+
 
 Papers
 ======
@@ -34,6 +34,11 @@ Papers
   
 Internship
 ======
+* Jul.2024-Feb.2025: Research Intern
+  * [THUNLP](https://nlp.csai.tsinghua.edu.cn/), Tsinghua University
+  * Department: LVLM Group
+  * Supervisor: [Prof.Zhiyuan Liu](https://nlp.csai.tsinghua.edu.cn/~lzy/)
+    
 * Oct.2023-Jan.2024: Research Assistant
   * [iFLYTEK CO., LTD.](https://www.iflytek.com/)
   * Department: R&D, AI Lab, COG7      
