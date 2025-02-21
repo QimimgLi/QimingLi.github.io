@@ -11,7 +11,7 @@ redirect_from:
 {% include base_path %}
 Current
 ======
-* M.S. TG Group, [Research Center for Social Computing and Information Retrieval(SCIR)](http://ir.hit.edu.cn/), Harbin Institute of Technology
+* M.S. TG Group, [Research Center for Social Computing and Interactive Robotic(SCIR)](http://ir.hit.edu.cn/), Harbin Institute of Technology
 
 Research Interests
 ======
